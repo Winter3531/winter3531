@@ -3,13 +3,14 @@
     Hello
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>:email: winterdavid31@gmail.com </h3>
+<!--   <h3>:email: winterdavid31@gmail.com </h3> -->
 </div>
 
 ---
 
-### :man_technologist: About Me :
-- 
+### :man_technologist: Introduction :
+# My name is David Winter! Welcome to my GitHub profile:
+- I am currently working on a recipe sharing app called !Game and Greens{game-and-greens.onrender.com}.
 
 
 
