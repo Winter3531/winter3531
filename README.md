@@ -15,7 +15,9 @@
 ---
 
 ### :hammer_and_pick: Languages and Tools:
+<div height="40" > 
 ![image](https://github.com/Winter3531/winter3531/assets/106880135/6872e72f-05e2-4b9c-b400-0396de04c626)
+</div>
 
 <!--
 **Winter3531/winter3531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
