@@ -9,7 +9,7 @@
   ---
   
   ## My name is David Winter! Welcome to my GitHub profile:
-  - :plate_with_cutlery: I am currently working on a recipe sharing app called [Game and Greens](game-and-greens.onrender.com).
+  - :plate_with_cutlery: I am currently working on a recipe sharing app called [Game and Greens](https://game-and-greens.onrender.com).
   - :mailbox: Check out more about me and say hello on my [LinkedIn](https://www.linkedin.com/in/david-winter-474a671b7/)!
   - :evergreen_tree: Fun Facts: I am an avid conservationist and never shy away from work! :hammer:
   
