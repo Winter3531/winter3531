@@ -1,4 +1,4 @@
-<div id="fullpage" style="background-color:red" style="color:red" > something
+<span id="fullpage" style="background-color:red" style="color:red" >
   <div id="header" align="center" >
     <h1 >
       Hello
@@ -38,7 +38,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=winter3531&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</div>
+</span>
 
 <!--
 **Winter3531/winter3531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
