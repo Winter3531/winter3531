@@ -11,7 +11,7 @@
   ## My name is David Winter! Welcome to my GitHub profile:
   - :plate_with_cutlery: I am currently working on a recipe sharing app called [Game and Greens](game-and-greens.onrender.com).
   - :mailbox: Check out more about me and say hello on my [LinkedIn](https://www.linkedin.com/in/david-winter-474a671b7/)!
-  - :evergreen_tree: Fun Facts: I am an avid conservationists and never shy away from work! :hammer:
+  - :evergreen_tree: Fun Facts: I am an avid conservationist and never shy away from work! :hammer:
   
   ---
   
@@ -21,7 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" color="white" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="color:white" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
