@@ -1,4 +1,4 @@
-<div id="fullpage" style="background-color:white">
+<div id="fullpage" style="background-color:white"> something
   <div id="header" align="center" >
     <h1 >
       Hello
