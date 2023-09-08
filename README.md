@@ -1,4 +1,4 @@
-<span id="fullpage" style="background-color:red" style="color:red" >
+
   <div id="header" align="center" >
     <h1 >
       Hello
@@ -21,7 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="color:white" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="background-color:white" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -38,7 +38,6 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=winter3531&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</span>
 
 <!--
 **Winter3531/winter3531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
