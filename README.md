@@ -9,7 +9,7 @@
   ---
   
   ## My name is David Winter! Welcome to my GitHub profile:
-  - 🪚 Coming soon to an app store near you! OptiBoard mobile app!
+  - 🪚 Coming soon to an app store near you! OptiBoard mobile app! 👷‍♂️
   - :evergreen_tree: Fun Facts: I am an avid conservationist and never shy away from work! :hammer:
   
   ---
